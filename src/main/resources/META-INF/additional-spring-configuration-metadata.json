@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "gateway",
+  "type": "java.lang.String",
+  "description": "A description for 'gateway'"
+}]}
